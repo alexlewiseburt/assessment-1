@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = "a tool used for developers for code management"
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = "a repository hosting service that allows collaboration of code. Helps devs store, manage, track and control changes of code in projects "
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+let gitInitDefinition = 'initalize a local repository'
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +41,8 @@
 
 //CODE HERE
 
+let gitCloneDefinition = 'make a copy of an existing repository'
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = 'informs you about the repos active changes'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +64,8 @@
 
 //CODE HERE
 
+let gitAddDefinition = 'add some files to be tracked'
+let gitAddCode = git add .
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +77,10 @@
 
 //CODE HERE
 
+let gitCommitDefinition = 'create a snapshot of the files currently being tracked'
+let gitCommitCode = git commit -am "initial commit"
+
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +89,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = 'push code to github after commit'
